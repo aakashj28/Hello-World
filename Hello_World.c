@@ -1,4 +1,6 @@
-int main(void)
+#include<stdio.h>
+
+main()
 {
   printf("Hello, world!");
 }
